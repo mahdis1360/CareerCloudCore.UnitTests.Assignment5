@@ -1,6 +1,7 @@
 using CareerCloud.Pocos;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using CareerCloud.WebAPI.Controllers;
 using System;
 
 namespace CareerCloudCore.UnitTests.Assignment5
